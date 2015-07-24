@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>LocationBasedAppDemoController.nib</key>
+		<data>
+		tq84gJd+B/UTCdPuGT2byswJFwc=
+		</data>
+		<key>LocationBasedAppMapController.nib</key>
+		<data>
+		pGiUw0awsB6h7f+tuQC3M0h8cxg=
+		</data>
+		<key>MainWindow.nib</key>
+		<data>
+		yyghIHs4wkfSO3LSXLNrJGFceyk=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		vyyWxwOIIJDEVjrh6pv3ix6frEo=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

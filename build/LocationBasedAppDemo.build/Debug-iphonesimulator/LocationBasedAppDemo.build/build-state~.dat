@@ -1,0 +1,712 @@
+TLocationBasedAppDemo
+v7
+r0
+t304515047.303841
+cCheck dependencies
+cProcessInfoPlistFile "/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/Info.plist" LocationBasedAppDemo-Info.plist
+cCompileXIB "/Rupak/My Example/LocationBasedAppDemo/MainWindow.xib"
+cCompileXIB "/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.xib"
+cCompileXIB "/Rupak/My Example/LocationBasedAppDemo/LocationBasedAppMapController.xib"
+cCpResource build/Debug-iphonesimulator/LocationBasedAppDemo.app/BG2.png images/BG2.png
+cCpResource build/Debug-iphonesimulator/LocationBasedAppDemo.app/icon.png images/icon.png
+cProcessPCH /var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationBasedAppDemo_Prefix-cfnvceyhploinlaahnnzizalzqmv/LocationBasedAppDemo_Prefix.pch.gch LocationBasedAppDemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/main.o "/Rupak/My Example/LocationBasedAppDemo/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/LocationBasedAppDemoAppDelegate.o "/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/LocationBasedAppDemoController.o "/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/LocationBasedAppMapController.o "/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BD236930000000000000110
+t1272067731
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004BD1D4D20000000000061790
+t1272042706
+s399248
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004BD1D4C800000000000001AF
+t1272042696
+s431
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C751D080000000000000132
+t1282743560
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004BFF44C00000000000068F90
+t1275020480
+s429968
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CLLocation.h
+c000000004BFF44B6000000000000191E
+t1275020470
+s6430
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004BFF44B600000000000001D0
+t1275020470
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C04724700000000000002FE
+t1275359815
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C04725B0000000000160350
+t1275359835
+s1442640
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h
+c000000004C764ECE000000000000024D
+t1282821838
+s589
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<MapKit/MapKit.h>
+
+N/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.m
+c000000004C764F8F0000000000000780
+t1282822031
+s1920
+i"LocationBasedAppMapController.h"
+
+N/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.xib
+c000000004C7610D80000000000001892
+t1282805976
+s6290
+
+N/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoAppDelegate.h
+c000000004C761C6600000000000002C7
+t1282808934
+s711
+i<UIKit/UIKit.h>
+i"LocationBasedAppDemoController.h"
+
+N/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoAppDelegate.m
+c000000004C7649BB0000000000000C1C
+t1282820539
+s3100
+i"LocationBasedAppDemoAppDelegate.h"
+
+N/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.h
+c000000004C7648610000000000000531
+t1282820193
+s1329
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i"LocationBasedAppMapController.h"
+
+N/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m
+c000000004C76506000000000000015E0
+t1282822240
+s5600
+i"LocationBasedAppDemoController.h"
+
+N/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.xib
+c000000004C761BED000000000000A899
+t1282808813
+s43161
+
+N/Rupak/My Example/LocationBasedAppDemo/LocationBasedAppDemo_Prefix.pch
+c000000004C74B45500000000000000D1
+t1282716757
+s209
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Rupak/My Example/LocationBasedAppDemo/LocationBasedAppMapController.h
+c000000004C764ECE000000000000024D
+t1282821838
+s589
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<MapKit/MapKit.h>
+
+N/Rupak/My Example/LocationBasedAppDemo/LocationBasedAppMapController.m
+c000000004C7610D800000000000005D0
+t1282805976
+s1488
+i"LocationBasedAppMapController.h"
+
+N/Rupak/My Example/LocationBasedAppDemo/LocationBasedAppMapController.xib
+c000000004C763FF2000000000000425E
+t1282818034
+s16990
+
+N/Rupak/My Example/LocationBasedAppDemo/MainWindow.xib
+c000000004C76220E0000000000007809
+t1282810382
+s30729
+
+N/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app
+t2
+s0
+
+N/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app.dSYM
+t2
+s0
+
+N/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/BG1.png
+t1282799205
+s111469
+
+N/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/BG2.png
+t1282822244
+s4499
+
+N/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/Info.plist
+t1282822240
+s649
+
+N/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/LocationBasedAppDemo
+t2
+s0
+
+N/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/LocationBasedAppDemoController.nib
+t1282822243
+s3481
+
+N/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/LocationBasedAppMapController.nib
+t1282822244
+s1153
+
+N/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/MainWindow.nib
+t1282822243
+s1702
+
+N/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/PkgInfo
+t1282822240
+s8
+
+N/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/icon.png
+t1282822244
+s1110
+
+N/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/LocationBasedAppDemo.LinkFileList
+c000000004C765060000000000000029E
+t1282822240
+s670
+
+N/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/LocationBasedAppDemoAppDelegate.o
+t2
+s0
+
+N/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/LocationBasedAppDemoController.o
+t2
+s0
+
+N/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/LocationBasedAppMapController.o
+t2
+s0
+
+N/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/main.o
+t1282822247
+s6304
+
+N/Rupak/My Example/LocationBasedAppDemo/images/BG1.png
+c000000004C75F4DD000000000001B36D
+t1282798813
+s111469
+
+N/Rupak/My Example/LocationBasedAppDemo/images/BG2.png
+c000000004C75F5130000000000001193
+t1282798867
+s4499
+
+N/Rupak/My Example/LocationBasedAppDemo/images/icon.png
+c000000004C7622B60000000000000456
+t1282810550
+s1110
+
+N/Rupak/My Example/LocationBasedAppDemo/main.m
+c000000004C74B4550000000000000176
+t1282716757
+s374
+i<UIKit/UIKit.h>
+
+N/Users/rupak/Documents/LocationBasedAppDemo/Classes/LocationBasedAppDemoAppDelegate.h
+c000000004C74C067000000000000023E
+t1282719847
+s574
+i<UIKit/UIKit.h>
+i"LocationBasedAppDemoController.h"
+
+N/Users/rupak/Documents/LocationBasedAppDemo/Classes/LocationBasedAppDemoAppDelegate.m
+c000000004C74BC0E0000000000000B9D
+t1282718734
+s2973
+i"LocationBasedAppDemoAppDelegate.h"
+
+N/Users/rupak/Documents/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.h
+c000000004C74D64100000000000002B0
+t1282725441
+s688
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/rupak/Documents/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m
+c000000004C74F7F70000000000000C8D
+t1282734071
+s3213
+i"LocationBasedAppDemoController.h"
+
+N/Users/rupak/Documents/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.xib
+c000000004C74D74C000000000000A8CF
+t1282725708
+s43215
+
+N/Users/rupak/Documents/LocationBasedAppDemo/LocationBasedAppDemo_Prefix.pch
+c000000004C74B45500000000000000D1
+t1282716757
+s209
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/rupak/Documents/LocationBasedAppDemo/MainWindow.xib
+c000000004C74B4550000000000002149
+t1282716757
+s8521
+
+N/Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app
+t1282734137
+s238
+
+N/Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app.dSYM
+t1282734137
+s102
+
+N/Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/Info.plist
+t1282730736
+s649
+
+N/Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/LocationBasedAppDemo
+t1282734137
+s27540
+
+N/Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/LocationBasedAppDemoController.nib
+t1282730739
+s6001
+
+N/Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/MainWindow.nib
+t1282730739
+s1544
+
+N/Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/PkgInfo
+t1282730736
+s8
+
+N/Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/LocationBasedAppDemo.LinkFileList
+c000000004C74EAF00000000000000200
+t1282730736
+s512
+
+N/Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/LocationBasedAppDemoAppDelegate.o
+t1282730740
+s48640
+
+N/Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/LocationBasedAppDemoController.o
+t1282734137
+s54672
+
+N/Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/main.o
+t1282730740
+s6312
+
+N/Users/rupak/Documents/LocationBasedAppDemo/main.m
+c000000004C74B4550000000000000176
+t1282716757
+s374
+i<UIKit/UIKit.h>
+
+N/var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationBasedAppDemo_Prefix-cfnvceyhploinlaahnnzizalzqmv/LocationBasedAppDemo_Prefix.pch.gch
+t1282822246
+s15232016
+
+N/var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationBasedAppDemo_Prefix-fqdcvpzcizlluraruxfybuweqxyl/LocationBasedAppDemo_Prefix.pch.gch
+t1282734500
+s13825936
+
+N/var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationBasedAppDemo_Prefix-gikjscjqwvronbcwnziszxfjfnlj/LocationBasedAppDemo_Prefix.pch.gch
+t1282717831
+s15232016
+
+N/var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationBasedAppDemo_Prefix-gzsyabgsnabtcudhgjspxybgqtvq/LocationBasedAppDemo_Prefix.pch.gch
+t1282730740
+s13825936
+
+NLocationBasedAppDemo-Info.plist
+c000000004C75FF7C000000000000038D
+t1282801532
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies304515040#304515040#0(0"0(0#1#0"8637286144#0"0#
+
+CCompileC build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/LocationBasedAppDemoAppDelegate.o "/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304515047.079659
+e304515047.201168
+r0
+xCompileC
+xbuild/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/LocationBasedAppDemoAppDelegate.o
+x/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.h:11,
+o                 from /Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoAppDelegate.h:10,
+o                 from /Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoAppDelegate.m:9:
+o/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h:26: error: expected ')' before 'Location'
+o/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h:26: error: expected identifier before ';' token
+lSLF07#2@88"Compile /Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoAppDelegate.m304515047#304515047#0(573"In file included from /Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.h:11,                 from /Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoAppDelegate.h:10,                 from /Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoAppDelegate.m:9:/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h:26: error: expected ')' before 'Location'/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h:26: error: expected identifier before ';' token2(4@30"Expected ')' before 'Location'304515047#319#124#4(7@102"In file included from /Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoAppDelegate.m304515047#18446744073709551615#0#0(6@80"/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoAppDelegate.m304513339#9#0#9#0#0"0(7@102"In file included from /Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoAppDelegate.h304515047#18446744073709551615#0#0(6@80"/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoAppDelegate.h304501734#10#0#10#0#0"0(7@101"In file included from /Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.h304515047#18446744073709551615#0#0(6@79"/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.h304512993#11#0#11#0#0"0(13@115"Expected ')' before 'Location' in /Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h304515047#18446744073709551615#0#0(6@81"/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h304514638#26#0#26#0#0"0(6@81"/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h304514638#26#0#26#0#19"expected * before *0(4@36"Expected identifier before ';' token304515047#443#130#4(7@102"In file included from /Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoAppDelegate.m304515047#18446744073709551615#0#0(6@80"/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoAppDelegate.m304513339#9#0#9#0#0"0(7@102"In file included from /Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoAppDelegate.h304515047#18446744073709551615#0#0(6@80"/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoAppDelegate.h304501734#10#0#10#0#0"0(7@101"In file included from /Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.h304515047#18446744073709551615#0#0(6@79"/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.h304512993#11#0#11#0#0"0(13@121"Expected identifier before ';' token in /Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h304515047#18446744073709551615#0#0(6@81"/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h304514638#26#0#26#0#0"0(6@81"/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h304514638#26#0#26#0#19"expected * before *0(0#0#80"/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoAppDelegate.m8635354976#2245"    cd "/Rupak/My Example/LocationBasedAppDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-generated-files.hmap" "-I/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-own-target-headers.hmap" "-I/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-all-target-headers.hmap" -iquote "/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-project-headers.hmap" "-F/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator" "-I/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/include" "-I/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/DerivedSources/i386" "-I/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/DerivedSources" -include /var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationBasedAppDemo_Prefix-cfnvceyhploinlaahnnzizalzqmv/LocationBasedAppDemo_Prefix.pch -c "/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoAppDelegate.m" -o "/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/LocationBasedAppDemoAppDelegate.o"1#
+
+CCompileC build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/LocationBasedAppDemoAppDelegate.o /Users/rupak/Documents/LocationBasedAppDemo/Classes/LocationBasedAppDemoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304423540.276811
+e304423540.365803
+r1
+xCompileC
+xbuild/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/LocationBasedAppDemoAppDelegate.o
+x/Users/rupak/Documents/LocationBasedAppDemo/Classes/LocationBasedAppDemoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/rupak/Documents/LocationBasedAppDemo/Classes/LocationBasedAppDemoAppDelegate.m304423540#304423540#0(0"0(0#0#85"/Users/rupak/Documents/LocationBasedAppDemo/Classes/LocationBasedAppDemoAppDelegate.m8642970368#2278"    cd /Users/rupak/Documents/LocationBasedAppDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-generated-files.hmap -I/Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-own-target-headers.hmap -I/Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-all-target-headers.hmap -iquote /Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-project-headers.hmap -F/Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator -I/Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/include -I/Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/DerivedSources/i386 -I/Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/DerivedSources -include /var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationBasedAppDemo_Prefix-gzsyabgsnabtcudhgjspxybgqtvq/LocationBasedAppDemo_Prefix.pch -c /Users/rupak/Documents/LocationBasedAppDemo/Classes/LocationBasedAppDemoAppDelegate.m -o /Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/LocationBasedAppDemoAppDelegate.o0#
+
+CCompileC build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/LocationBasedAppDemoController.o "/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304515047.148689
+e304515047.293095
+r0
+xCompileC
+xbuild/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/LocationBasedAppDemoController.o
+x/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.h:11,
+o                 from /Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m:9:
+o/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h:26: error: expected ')' before 'Location'
+o/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h:26: error: expected identifier before ';' token
+o/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m: In function '-[LocationBasedAppDemoController viewDidLoad]':
+o/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m:37: error: 'aMapViewCont' undeclared (first use in this function)
+o/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m:37: error: (Each undeclared identifier is reported only once
+o/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m:37: error: for each function it appears in.)
+o/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m: In function '-[LocationBasedAppDemoController locationManager:didUpdateToLocation:fromLocation:]':
+o/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m:148: warning: no '-initWithLocation:' method found
+o/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m:148: warning: (Messages without a matching method signature
+o/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m:148: warning: will be assumed to return 'id' and accept
+o/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m:148: warning: '...' as arguments.)
+lSLF07#2@87"Compile /Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m304515047#304515047#0(1721"In file included from /Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.h:11,                 from /Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m:9:/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h:26: error: expected ')' before 'Location'/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h:26: error: expected identifier before ';' token/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m: In function '-[LocationBasedAppDemoController viewDidLoad]':/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m:37: error: 'aMapViewCont' undeclared (first use in this function)/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m:37: error: (Each undeclared identifier is reported only once/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m:37: error: for each function it appears in.)/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m: In function '-[LocationBasedAppDemoController locationManager:didUpdateToLocation:fromLocation:]':/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m:148: warning: no '-initWithLocation:' method found/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m:148: warning: (Messages without a matching method signature/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m:148: warning: will be assumed to return 'id' and accept/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m:148: warning: '...' as arguments.)5(4@30"Expected ')' before 'Location'304515047#211#124#3(7@101"In file included from /Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m304515047#18446744073709551615#0#0(6@79"/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m304515040#9#0#9#0#0"0(7@101"In file included from /Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.h304515047#18446744073709551615#0#0(6@79"/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.h304512993#11#0#11#0#0"0(13@115"Expected ')' before 'Location' in /Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h304515047#18446744073709551615#0#0(6@81"/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h304514638#26#0#26#0#0"0(6@81"/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h304514638#26#0#26#0#19"expected * before *0(4@36"Expected identifier before ';' token304515047#335#130#3(7@101"In file included from /Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m304515047#18446744073709551615#0#0(6@79"/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m304515040#9#0#9#0#0"0(7@101"In file included from /Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.h304515047#18446744073709551615#0#0(6@79"/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.h304512993#11#0#11#0#0"0(13@121"Expected identifier before ';' token in /Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h304515047#18446744073709551615#0#0(6@81"/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h304514638#26#0#26#0#0"0(6@81"/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h304514638#26#0#26#0#19"expected * before *0(4@54"'aMapViewCont' undeclared (first use in this function)304515047#607#146#0(6@79"/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m304515040#37#0#37#0#43"'*' undeclared (first use in this function)0(22@36"No '-initWithLocation:' method found304515047#1199#131#0(6@79"/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m304515040#148#0#148#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)304515047#1330#140#0(6@79"/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m304515040#148#0#148#0#0"0(0#0#79"/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m8632418560#2243"    cd "/Rupak/My Example/LocationBasedAppDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-generated-files.hmap" "-I/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-own-target-headers.hmap" "-I/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-all-target-headers.hmap" -iquote "/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-project-headers.hmap" "-F/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator" "-I/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/include" "-I/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/DerivedSources/i386" "-I/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/DerivedSources" -include /var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationBasedAppDemo_Prefix-cfnvceyhploinlaahnnzizalzqmv/LocationBasedAppDemo_Prefix.pch -c "/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m" -o "/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/LocationBasedAppDemoController.o"1#
+
+CCompileC build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/LocationBasedAppDemoController.o /Users/rupak/Documents/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304426937.465651
+e304426937.647609
+r1
+xCompileC
+xbuild/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/LocationBasedAppDemoController.o
+x/Users/rupak/Documents/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/rupak/Documents/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m304426937#304426937#0(0"0(0#0#84"/Users/rupak/Documents/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m8637095872#2276"    cd /Users/rupak/Documents/LocationBasedAppDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-generated-files.hmap -I/Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-own-target-headers.hmap -I/Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-all-target-headers.hmap -iquote /Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-project-headers.hmap -F/Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator -I/Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/include -I/Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/DerivedSources/i386 -I/Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/DerivedSources -include /var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationBasedAppDemo_Prefix-gzsyabgsnabtcudhgjspxybgqtvq/LocationBasedAppDemo_Prefix.pch -c /Users/rupak/Documents/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.m -o /Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/LocationBasedAppDemoController.o0#
+
+CCompileC build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/LocationBasedAppMapController.o "/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304515047.201272
+e304515047.303772
+r0
+xCompileC
+xbuild/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/LocationBasedAppMapController.o
+x/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.m:9:
+o/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h:26: error: expected ')' before 'Location'
+o/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h:26: error: expected identifier before ';' token
+o/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.m:25: error: expected identifier before '{' token
+o/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.m:25: confused by earlier errors, bailing out
+lSLF07#2@89"Compile /Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.m304515047#304515047#0(617"In file included from /Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.m:9:/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h:26: error: expected ')' before 'Location'/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h:26: error: expected identifier before ';' token/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.m:25: error: expected identifier before '{' token/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.m:25: confused by earlier errors, bailing out4(4@30"Expected ')' before 'Location'304515047#107#124#2(7@103"In file included from /Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.m304515047#18446744073709551615#0#0(6@81"/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.m304514831#9#0#9#0#0"0(13@115"Expected ')' before 'Location' in /Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h304515047#18446744073709551615#0#0(6@81"/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h304514638#26#0#26#0#0"0(6@81"/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h304514638#26#0#26#0#19"expected * before *0(4@36"Expected identifier before ';' token304515047#231#130#2(7@103"In file included from /Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.m304515047#18446744073709551615#0#0(6@81"/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.m304514831#9#0#9#0#0"0(13@121"Expected identifier before ';' token in /Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h304515047#18446744073709551615#0#0(6@81"/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h304514638#26#0#26#0#0"0(6@81"/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.h304514638#26#0#26#0#19"expected * before *0(4@36"Expected identifier before '{' token304515047#361#130#0(6@81"/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.m304514831#25#0#25#0#19"expected * before *0(4@39"Confused by earlier errors, bailing out304515047#491#126#0(6@81"/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.m304514831#25#0#25#0#39"confused by earlier errors, bailing out0(0#0#81"/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.m8633884096#2244"    cd "/Rupak/My Example/LocationBasedAppDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-generated-files.hmap" "-I/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-own-target-headers.hmap" "-I/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-all-target-headers.hmap" -iquote "/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-project-headers.hmap" "-F/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator" "-I/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/include" "-I/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/DerivedSources/i386" "-I/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/DerivedSources" -include /var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationBasedAppDemo_Prefix-cfnvceyhploinlaahnnzizalzqmv/LocationBasedAppDemo_Prefix.pch -c "/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.m" -o "/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/LocationBasedAppMapController.o"1#
+
+CCompileC build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/LocationBasedAppMapController.o "/Rupak/My Example/LocationBasedAppDemo/LocationBasedAppMapController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/main.o "/Rupak/My Example/LocationBasedAppDemo/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304515047.077510
+e304515047.148584
+r1
+xCompileC
+xbuild/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/main.o
+x/Rupak/My Example/LocationBasedAppDemo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Rupak/My Example/LocationBasedAppDemo/main.m304515047#304515047#0(0"0(0#0#45"/Rupak/My Example/LocationBasedAppDemo/main.m8635960576#2183"    cd "/Rupak/My Example/LocationBasedAppDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-generated-files.hmap" "-I/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-own-target-headers.hmap" "-I/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-all-target-headers.hmap" -iquote "/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-project-headers.hmap" "-F/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator" "-I/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/include" "-I/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/DerivedSources/i386" "-I/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/DerivedSources" -include /var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationBasedAppDemo_Prefix-cfnvceyhploinlaahnnzizalzqmv/LocationBasedAppDemo_Prefix.pch -c "/Rupak/My Example/LocationBasedAppDemo/main.m" -o "/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/main.o /Users/rupak/Documents/LocationBasedAppDemo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304423540.275358
+e304423540.346872
+r1
+xCompileC
+xbuild/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/main.o
+x/Users/rupak/Documents/LocationBasedAppDemo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/rupak/Documents/LocationBasedAppDemo/main.m304423540#304423540#0(0"0(0#0#50"/Users/rupak/Documents/LocationBasedAppDemo/main.m8643329984#2216"    cd /Users/rupak/Documents/LocationBasedAppDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-generated-files.hmap -I/Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-own-target-headers.hmap -I/Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-all-target-headers.hmap -iquote /Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-project-headers.hmap -F/Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator -I/Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/include -I/Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/DerivedSources/i386 -I/Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/DerivedSources -include /var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationBasedAppDemo_Prefix-gzsyabgsnabtcudhgjspxybgqtvq/LocationBasedAppDemo_Prefix.pch -c /Users/rupak/Documents/LocationBasedAppDemo/main.m -o /Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Rupak/My Example/LocationBasedAppDemo/Classes/../LocationBasedAppMapController.xib"
+r0
+
+CCompileXIB "/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.xib"
+s304515040.878783
+e304515043.943137
+r1
+xCompileXIB
+x/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.xib
+lSLF07#2@53"CompileXIB Classes/LocationBasedAppDemoController.xib304515040#304515043#0(0"0(0#0#81"/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.xib8636327424#637"    cd "/Rupak/My Example/LocationBasedAppDemo"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/LocationBasedAppDemoController.nib" "/Rupak/My Example/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Rupak/My Example/LocationBasedAppDemo/LocationBasedAppMapController.xib"
+s304515043.756713
+e304515044.440027
+r1
+xCompileXIB
+x/Rupak/My Example/LocationBasedAppDemo/LocationBasedAppMapController.xib
+lSLF07#2@44"CompileXIB LocationBasedAppMapController.xib304515043#304515044#0(0"0(0#0#72"/Rupak/My Example/LocationBasedAppDemo/LocationBasedAppMapController.xib8631231904#627"    cd "/Rupak/My Example/LocationBasedAppDemo"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/LocationBasedAppMapController.nib" "/Rupak/My Example/LocationBasedAppDemo/LocationBasedAppMapController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Rupak/My Example/LocationBasedAppDemo/MainWindow.xib"
+s304515040.877628
+e304515043.756563
+r1
+xCompileXIB
+x/Rupak/My Example/LocationBasedAppDemo/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib304515040#304515043#0(0"0(0#0#53"/Rupak/My Example/LocationBasedAppDemo/MainWindow.xib8637047488#589"    cd "/Rupak/My Example/LocationBasedAppDemo"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/MainWindow.nib" "/Rupak/My Example/LocationBasedAppDemo/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/rupak/Documents/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.xib
+s304423536.970139
+e304423539.216094
+r1
+xCompileXIB
+x/Users/rupak/Documents/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.xib
+o2010-08-25 15:35:38.957 Interface Builder Cocoa Touch Tool[3849:1903] CFPreferences: user home directory at file://localhost/Users/rupak/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@53"CompileXIB Classes/LocationBasedAppDemoController.xib304423536#304423539#0(239"2010-08-25 15:35:38.957 Interface Builder Cocoa Touch Tool[3849:1903] CFPreferences: user home directory at file://localhost/Users/rupak/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#86"/Users/rupak/Documents/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.xib8640406272#648"    cd /Users/rupak/Documents/LocationBasedAppDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/LocationBasedAppDemoController.nib /Users/rupak/Documents/LocationBasedAppDemo/Classes/LocationBasedAppDemoController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB /Users/rupak/Documents/LocationBasedAppDemo/MainWindow.xib
+s304423536.969208
+e304423539.050320
+r1
+xCompileXIB
+x/Users/rupak/Documents/LocationBasedAppDemo/MainWindow.xib
+o2010-08-25 15:35:38.957 Interface Builder Cocoa Touch Tool[3850:1903] CFPreferences: user home directory at file://localhost/Users/rupak/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@25"CompileXIB MainWindow.xib304423536#304423539#0(239"2010-08-25 15:35:38.957 Interface Builder Cocoa Touch Tool[3850:1903] CFPreferences: user home directory at file://localhost/Users/rupak/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#58"/Users/rupak/Documents/LocationBasedAppDemo/MainWindow.xib8640988320#600"    cd /Users/rupak/Documents/LocationBasedAppDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/MainWindow.nib /Users/rupak/Documents/LocationBasedAppDemo/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/LocationBasedAppDemo.app/BG1.png images/BG1.png
+s304492005.581477
+e304492005.612108
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/LocationBasedAppDemo.app/BG1.png
+ximages/BG1.png
+lSLF07#2@19"Copy images/BG1.png304492005#304492005#0(0"0(0#0#53"/Rupak/My Example/LocationBasedAppDemo/images/BG1.png8618423808#477"    cd "/Rupak/My Example/LocationBasedAppDemo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Rupak/My Example/LocationBasedAppDemo/images/BG1.png" "/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app"0#
+
+CCpResource build/Debug-iphonesimulator/LocationBasedAppDemo.app/BG2.png images/BG2.png
+s304515043.943236
+e304515044.044865
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/LocationBasedAppDemo.app/BG2.png
+ximages/BG2.png
+lSLF07#2@19"Copy images/BG2.png304515043#304515044#0(0"0(0#0#53"/Rupak/My Example/LocationBasedAppDemo/images/BG2.png8623218016#477"    cd "/Rupak/My Example/LocationBasedAppDemo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Rupak/My Example/LocationBasedAppDemo/images/BG2.png" "/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app"0#
+
+CCpResource build/Debug-iphonesimulator/LocationBasedAppDemo.app/icon.png images/icon.png
+s304515043.944130
+e304515044.045170
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/LocationBasedAppDemo.app/icon.png
+ximages/icon.png
+lSLF07#2@20"Copy images/icon.png304515043#304515044#0(0"0(0#0#54"/Rupak/My Example/LocationBasedAppDemo/images/icon.png8623592224#478"    cd "/Rupak/My Example/LocationBasedAppDemo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Rupak/My Example/LocationBasedAppDemo/images/icon.png" "/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app"0#
+
+CGenerateDSYMFile "/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app.dSYM" "/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/LocationBasedAppDemo"
+s304514067.801105
+e304514067.922933
+r1
+xGenerateDSYMFile
+x/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app.dSYM
+x/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/LocationBasedAppDemo
+lSLF07#2@148"GenerateDSYMFile build/Debug-iphonesimulator/LocationBasedAppDemo.app.dSYM build/Debug-iphonesimulator/LocationBasedAppDemo.app/LocationBasedAppDemo304514067#304514067#0(0"0(0#0#112"/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/LocationBasedAppDemo8628056864#428"    cd "/Rupak/My Example/LocationBasedAppDemo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/LocationBasedAppDemo" -o "/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app.dSYM"0#
+
+CGenerateDSYMFile /Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app.dSYM /Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/LocationBasedAppDemo
+s304426937.673533
+e304426937.693785
+r1
+xGenerateDSYMFile
+x/Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app.dSYM
+x/Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/LocationBasedAppDemo
+lSLF07#2@148"GenerateDSYMFile build/Debug-iphonesimulator/LocationBasedAppDemo.app.dSYM build/Debug-iphonesimulator/LocationBasedAppDemo.app/LocationBasedAppDemo304426937#304426937#0(0"0(0#0#117"/Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/LocationBasedAppDemo8643069728#437"    cd /Users/rupak/Documents/LocationBasedAppDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/LocationBasedAppDemo -o /Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app.dSYM0#
+
+CLd "/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/LocationBasedAppDemo" normal i386
+s304514067.466370
+e304514067.800972
+r1
+xLd
+x/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/LocationBasedAppDemo
+xnormal
+xi386
+lSLF07#2@117"Link /Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/LocationBasedAppDemo304514067#304514067#0(0"0(0#0#0"8620782912#1017"    cd "/Rupak/My Example/LocationBasedAppDemo"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator" "-F/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator" -filelist "/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/LocationBasedAppDemo.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework MapKit -o "/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/LocationBasedAppDemo"0#
+
+CLd /Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/LocationBasedAppDemo normal i386
+s304426937.647705
+e304426937.673428
+r1
+xLd
+x/Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/LocationBasedAppDemo
+xnormal
+xi386
+lSLF07#2@122"Link /Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/LocationBasedAppDemo304426937#304426937#0(0"0(0#0#0"8643225664#1014"    cd /Users/rupak/Documents/LocationBasedAppDemo    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator -F/Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator -filelist /Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/Objects-normal/i386/LocationBasedAppDemo.LinkFileList -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -o /Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/LocationBasedAppDemo0#
+
+CProcessInfoPlistFile "/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/Info.plist" LocationBasedAppDemo-Info.plist
+s304515040.855612
+e304515040.877473
+r1
+xProcessInfoPlistFile
+x/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/Info.plist
+xLocationBasedAppDemo-Info.plist
+lSLF07#2@39"Process LocationBasedAppDemo-Info.plist304515040#304515040#0(0"0(0#0#70"/Rupak/My Example/LocationBasedAppDemo/LocationBasedAppDemo-Info.plist8630911392#524"    cd "/Rupak/My Example/LocationBasedAppDemo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility LocationBasedAppDemo-Info.plist -genpkginfo "/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/Info.plist"0#
+
+CProcessInfoPlistFile /Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/Info.plist LocationBasedAppDemo-Info.plist
+s304423536.716077
+e304423536.969117
+r1
+xProcessInfoPlistFile
+x/Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/Info.plist
+xLocationBasedAppDemo-Info.plist
+lSLF07#2@39"Process LocationBasedAppDemo-Info.plist304423536#304423536#0(0"0(0#0#75"/Users/rupak/Documents/LocationBasedAppDemo/LocationBasedAppDemo-Info.plist8642439392#533"    cd /Users/rupak/Documents/LocationBasedAppDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility LocationBasedAppDemo-Info.plist -genpkginfo /Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app/Info.plist0#
+
+CProcessPCH /var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationBasedAppDemo_Prefix-cfnvceyhploinlaahnnzizalzqmv/LocationBasedAppDemo_Prefix.pch.gch LocationBasedAppDemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s304515044.440153
+e304515047.077350
+r1
+xProcessPCH
+x/var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationBasedAppDemo_Prefix-cfnvceyhploinlaahnnzizalzqmv/LocationBasedAppDemo_Prefix.pch.gch
+xLocationBasedAppDemo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile LocationBasedAppDemo_Prefix.pch304515044#304515047#0(0"0(0#0#70"/Rupak/My Example/LocationBasedAppDemo/LocationBasedAppDemo_Prefix.pch8631925280#2060"    cd "/Rupak/My Example/LocationBasedAppDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-generated-files.hmap" "-I/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-own-target-headers.hmap" "-I/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-all-target-headers.hmap" -iquote "/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-project-headers.hmap" "-F/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator" "-I/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/include" "-I/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/DerivedSources/i386" "-I/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/DerivedSources" -c "/Rupak/My Example/LocationBasedAppDemo/LocationBasedAppDemo_Prefix.pch" -o /var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationBasedAppDemo_Prefix-cfnvceyhploinlaahnnzizalzqmv/LocationBasedAppDemo_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationBasedAppDemo_Prefix-fqdcvpzcizlluraruxfybuweqxyl/LocationBasedAppDemo_Prefix.pch.gch LocationBasedAppDemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s304427299.393418
+e304427300.786064
+r1
+xProcessPCH
+x/var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationBasedAppDemo_Prefix-fqdcvpzcizlluraruxfybuweqxyl/LocationBasedAppDemo_Prefix.pch.gch
+xLocationBasedAppDemo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile LocationBasedAppDemo_Prefix.pch304427299#304427300#0(0"0(0#0#70"/Rupak/My Example/LocationBasedAppDemo/LocationBasedAppDemo_Prefix.pch8603224576#2060"    cd "/Rupak/My Example/LocationBasedAppDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-generated-files.hmap" "-I/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-own-target-headers.hmap" "-I/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-all-target-headers.hmap" -iquote "/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-project-headers.hmap" "-F/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator" "-I/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/include" "-I/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/DerivedSources/i386" "-I/Rupak/My Example/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/DerivedSources" -c "/Rupak/My Example/LocationBasedAppDemo/LocationBasedAppDemo_Prefix.pch" -o /var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationBasedAppDemo_Prefix-fqdcvpzcizlluraruxfybuweqxyl/LocationBasedAppDemo_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationBasedAppDemo_Prefix-gikjscjqwvronbcwnziszxfjfnlj/LocationBasedAppDemo_Prefix.pch.gch LocationBasedAppDemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s304410630.819095
+e304410632.023883
+r1
+xProcessPCH
+x/var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationBasedAppDemo_Prefix-gikjscjqwvronbcwnziszxfjfnlj/LocationBasedAppDemo_Prefix.pch.gch
+xLocationBasedAppDemo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile LocationBasedAppDemo_Prefix.pch304410630#304410632#0(0"0(0#0#75"/Users/rupak/Documents/LocationBasedAppDemo/LocationBasedAppDemo_Prefix.pch8601356832#2090"    cd /Users/rupak/Documents/LocationBasedAppDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-generated-files.hmap -I/Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-own-target-headers.hmap -I/Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-all-target-headers.hmap -iquote /Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-project-headers.hmap -F/Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator -I/Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/include -I/Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/DerivedSources/i386 -I/Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/DerivedSources -c /Users/rupak/Documents/LocationBasedAppDemo/LocationBasedAppDemo_Prefix.pch -o /var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationBasedAppDemo_Prefix-gikjscjqwvronbcwnziszxfjfnlj/LocationBasedAppDemo_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationBasedAppDemo_Prefix-gzsyabgsnabtcudhgjspxybgqtvq/LocationBasedAppDemo_Prefix.pch.gch LocationBasedAppDemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s304423539.216252
+e304423540.275217
+r1
+xProcessPCH
+x/var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationBasedAppDemo_Prefix-gzsyabgsnabtcudhgjspxybgqtvq/LocationBasedAppDemo_Prefix.pch.gch
+xLocationBasedAppDemo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile LocationBasedAppDemo_Prefix.pch304423539#304423540#0(0"0(0#0#75"/Users/rupak/Documents/LocationBasedAppDemo/LocationBasedAppDemo_Prefix.pch8631837760#2090"    cd /Users/rupak/Documents/LocationBasedAppDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-generated-files.hmap -I/Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-own-target-headers.hmap -I/Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-all-target-headers.hmap -iquote /Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/LocationBasedAppDemo-project-headers.hmap -F/Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator -I/Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/include -I/Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/DerivedSources/i386 -I/Users/rupak/Documents/LocationBasedAppDemo/build/LocationBasedAppDemo.build/Debug-iphonesimulator/LocationBasedAppDemo.build/DerivedSources -c /Users/rupak/Documents/LocationBasedAppDemo/LocationBasedAppDemo_Prefix.pch -o /var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationBasedAppDemo_Prefix-gzsyabgsnabtcudhgjspxybgqtvq/LocationBasedAppDemo_Prefix.pch.gch0#
+
+CTouch "/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app"
+s304514067.923039
+e304514067.926455
+r1
+xTouch
+x/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app
+lSLF07#2@97"Touch /Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app304514067#304514067#0(0"0(0#0#0"8622581280#295"    cd "/Rupak/My Example/LocationBasedAppDemo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Rupak/My Example/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app"0#
+
+CTouch /Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app
+s304426937.693877
+e304426937.697468
+r1
+xTouch
+x/Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app
+lSLF07#2@102"Touch /Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app304426937#304426937#0(0"0(0#0#0"8642201664#301"    cd /Users/rupak/Documents/LocationBasedAppDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/rupak/Documents/LocationBasedAppDemo/build/Debug-iphonesimulator/LocationBasedAppDemo.app0#
+
